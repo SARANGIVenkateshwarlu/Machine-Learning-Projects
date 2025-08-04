@@ -56,3 +56,6 @@ This project showcases the effectiveness of the Decision Tree algorithm in class
 Acknowledgments
 
 Special thanks to the contributors of the Wisconsin Breast Cancer Dataset and the community for providing valuable resources in machine learning.
+..............................................................................................................
+
+# Project Title: Random Forest Algorithm for Classification of Breast Cancer (Wisconsin Dataset)
