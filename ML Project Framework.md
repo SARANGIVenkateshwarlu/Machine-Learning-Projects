@@ -243,7 +243,7 @@ If imbalanced:
 
 
 # 📦 Recommended Project Structure
-
+```
 project/
 │
 ├── data/
@@ -258,7 +258,7 @@ project/
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
-
+```
 ---
 ✅ Final Checklist Before Production
 
@@ -295,3 +295,4 @@ If you'd like, I can also create:
 - ✅ A **complete starter code repo structure**
 
 Just tell me what level (Beginner / Intermediate / Production-level).
+
