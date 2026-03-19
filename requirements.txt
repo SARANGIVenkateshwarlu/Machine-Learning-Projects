@@ -1,0 +1,50 @@
+#1. Core ML / Data Science (Most Common)
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+joblib
+
+#2. Deep Learning: 🔹 PyTorch / TensorFlow / Keras
+
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+#3. Data Processing & Utilities
+
+tqdm
+requests
+python-dotenv
+pyyaml
+
+# 4. NLP (Natural Language Processing)
+
+nltk
+spacy
+transformers
+datasets
+sentencepiece
+
+#5. Computer Vision
+opencv-python
+Pillow
+albumentations
+
+#6. Model Deployment / API
+fastapi
+uvicorn
+flask
+streamlit
+gradio
+
+#7. Experiment Tracking
+wandb
+mlflow
+tensorboard
+

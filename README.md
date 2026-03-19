@@ -1,1 +1,1 @@
-Machine Learning Notebooks and notes
+Machine Learning Notes and projects
